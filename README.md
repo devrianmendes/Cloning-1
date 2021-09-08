@@ -21,4 +21,4 @@ Original template: https://nicepage.com/website-templates/preview/fast-developme
 ########## 2º, 3º, 4º, 5º, SECTION ##########
 
 - Pretty easy.
-- Still unresponsive. YET!!!!
+- And now, fully responsive!!!!
